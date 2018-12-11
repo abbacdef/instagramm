@@ -17,6 +17,7 @@ gem 'uglifier', '>= 1.3.0'
 gem 'duktape'
 
 gem 'simple_form'
+gem 'masonry-rails'
 gem 'bootstrap-sass'
 gem 'devise'
 
